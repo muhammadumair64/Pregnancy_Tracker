@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Pregnancy Tracker</string>
+    <string name="please_wait">Please Wait …</string>
+    <string name="inapp_success_meaage">Subscription activated, Enjoy! Please Restart the App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_agree_to_the_handling_of_individual_information_in_understanding_with_the_privacy_policy">I agree to the handling of individual information in understanding with the <b>Privacy Policy</b></string>
+    <string name="this_means_you_are_6_weeks">This Means you are </string>
+    <string name="_6_weeks">6 weeks</string>
+    <string name="pregnant_have_34_weeks_to_go"> Pregnant &amp; have</string>
+    <string name="_34_weeks_to_go"><b>34 Weeks</b></string>
+    <string name="to_go">to go</string>
+    <string name="title">null</string>
+
+
+    <string name="light">fonts/Light.otf</string>
+    <string name="bold">fonts/extrabold.otf</string>
+    <string name="text_for_boy">You’ve answered 5 questions, and <b>it’s a boy!</b> Complete more questions for accurate results.</string>
+    <string name="text_for_girl">You’ve answered 5 questions, and <b>it’s a girl!</b> Complete more questions for accurate results.</string>
+    <string name="text_no_answers">You haven’t answered any questions yet. Start now to get accurate results!</string>
+    <string name="_90_60"><![CDATA[< 90 & < 60]]></string>
+    <string name="_120_80"><![CDATA[< 120 & < 80]]></string>
+    <string name="_120_129_amp_80"><![CDATA[120-129 & < 80]]></string>
+    <string name="_140_amp_90"><![CDATA[> 140 & > 90]]></string>
+    <string name="_130_amp_80"><![CDATA[>130 & > 80]]></string>
+    <string name="hypertension">Hypertension</string>
+    <string name="normal">Normal</string>
+    <string name="elevated">Elevated</string>
+    <string name="hypertension_stage_1">Hypertension Stage 1</string>
+    <string name="hypertension_stage_2">Hypertension Stage 2</string>
+    <string name="sys_120_amp_dia_80"><![CDATA[SYS <120 & DIA <80]]></string>
+    <string name="press_back_again_to_exit">Press back again to exit</string>
+
+    <string name="hey_unleash_the_ultimate_app">🤰 Track Your Pregnancy Progress 🤰\n🎯 Predict Baby Gender 🎯\n💓 Monitor Your Blood Pressure Daily 💓\n👇 Tap below to download now! 👇</string>
+
+    <string name="lungs_test">Lungs Test</string>
+    <string name="lungs_test_info">It is not a medical advice and should not be used as a substitute for the professional medical advice, diagnosis , or treatment.</string>
+    <string name="your_lungs_are_healthy_keep_breathing_easy">Your lungs are Healthy! Keep breathing easy.</string>
+    <string name="ok">OK</string>
+    <string name="your_lungs_are_not_in_good_health">Your lungs are not in good health.</string>
+    <string name="necessary_permission">Necessary Permission</string>
+    <string name="necessary_permission_dis">Please allow the required permissions in the app settings.</string>
+    <string name="pumpkin_protein_bars">Pumpkin protein bars</string>
+    <string name="consent_p4">I understand that Pregnancy Tracker provides general insights and tools for monitoring pregnancy progress. However, the app does not offer personalized medical advice or treatment recommendations. Any decisions regarding my health or pregnancy should be made in consultation with a qualified healthcare provider. The app is a supplementary resource and not a substitute for professional care.</string>
+    <string name="consent_p3">I agree that my data is confidential and cannot be accessed by anyone else. Only I can view or manage my data.</string>
+    <string name="consent_p2">I agree that the app is based on medical research and in case of emergencies, I will consult a doctor. This app does not replace professional medical advice. I will consult a qualified healthcare provider when needed.</string>
+
+    <string name="trimester_chart_description">
+    <![CDATA[
+        Track your pregnancy journey with the Trimester Chart!<br/>
+        This chart provides a detailed overview of your pregnancy stages, divided into three trimesters:<br/><br/>
+        <b>&#8226; First Trimester (Week 1–13):</b> The early phase of development.<br/>
+        <b>&#8226; Second Trimester (Week 14–26):</b> When your baby grows rapidly and begins to move.<br/>
+        <b>&#8226; Third Trimester (Week 27–40):</b> Preparing for delivery as your baby reaches full term.<br/><br/>
+        Stay informed about key milestones, track your progress, and monitor important changes week by week. This helps you understand what to expect and stay connected with your baby’s development.
+    ]]>
+</string>
+
+</resources>

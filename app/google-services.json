@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340694508725",
+    "project_id": "blood-pressure-app-e4e0a",
+    "storage_bucket": "blood-pressure-app-e4e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340694508725:android:1d513e1457842ad5f5cafc",
+        "android_client_info": {
+          "package_name": "com.babytracker.periodtracker.babygenderpredictor.pregnancyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07zIxjsKxBrgk_V1y4XhBi-0DfO8Tg0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340694508725:android:2431750ecb6f7f80f5cafc",
+        "android_client_info": {
+          "package_name": "com.bloodsugartracker.heartbeatmonitor.bloodpressureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB07zIxjsKxBrgk_V1y4XhBi-0DfO8Tg0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/triangle_drawable.xml -->
+<!-- res/drawable/triangle_drawable.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="15dp"
+    android:height="11dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Define the triangle path -->
+    <path
+        android:fillColor="@color/green_color"
+        android:pathData="M50,0 L100,100 L0,100 Z" />
+</vector>

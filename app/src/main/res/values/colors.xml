@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#DC6390</color>
+    <color name="primary_blue">#74D8FF</color>
+    <color name="tp">#00FFFFFF</color>
+
+    <color name="text_color_light">#9E9E9E</color>
+    <color name="text_color_dim">#C7C7C7</color>
+    <color name="gray_text_color">#575757</color>
+    <color name="gray_light_color">#BEBEBE</color>
+    <color name="theme_text_color">#DC6390</color>
+    <color name="theme_purple">#AA3DF2</color>
+    <color name="theme_purple_dim">#F0DAFF</color>
+    <color name="card_bg_light">#FCEFF4</color>
+    <color name="card_stroke_light">#F4CFDD</color>
+    <color name="shimmer_effect_color">#BFBDBD</color>
+    <color name="ad_bg_color">#FFFFFF</color>
+    <color name="progress_green">#00C9C5</color>
+
+    <color name="light_pink">#F1C1D3</color>
+    <color name="light_gray">#f2f2f2</color>
+    <color name="grey">#E4E4E4</color>
+    <color name="gray_dim">#F0F0F0</color>
+    <color name="dark_text">#2D2D2D</color>
+    <color name="background_color">#FEFEFE</color>
+    <color name="status_bar_color">#FFF1F8</color>
+    <color name="dark_gray">#FF858585</color>
+    <color name="green">#0E7A2D</color>
+    <color name="red">#ff00</color>
+    <color name="yellow">#DCC516</color>
+    <color name="blue_color">#1872F6</color>
+    <color name="gray_text">#6A6A6A</color>
+    <color name="green_color">#07B336</color>
+    <color name="orange">#F89923</color>
+    <color name="yellow_light">#F8B53E</color>
+
+    <color name= "light_icon">#D9D9D9</color>
+    <color name="border_color">#E9E9E9</color>
+<color name="bar_light_color">#9E9E9E</color>
+    <color name="extra_light_pink">#30F1C1D3</color>
+
+    <color name="field_bg_color">#F5F5F5F5</color>
+</resources>

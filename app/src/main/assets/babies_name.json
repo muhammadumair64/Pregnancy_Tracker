@@ -1,0 +1,3340 @@
+{
+  "Babies": [
+    {
+      "id": 1,
+      "name": "Ahmed",
+      "meaning": "Highly praised",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "Fatima",
+      "meaning": "Captivating",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "name": "Ali",
+      "meaning": "Exalted, noble",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "Ayesha",
+      "meaning": "Alive, living",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "name": "Usman",
+      "meaning": "Pure, chaste",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "name": "Zainab",
+      "meaning": "Father's precious jewel",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "name": "Omar",
+      "meaning": "Long life",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 8,
+      "name": "Maryam",
+      "meaning": "Beloved, rebellious",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 9,
+      "name": "Hassan",
+      "meaning": "Handsome",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 10,
+      "name": "Fatima",
+      "meaning": "Captivating",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 11,
+      "name": "Bilal",
+      "meaning": "Water, freshness",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 12,
+      "name": "Amina",
+      "meaning": "Safe, secure",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 13,
+      "name": "Khalid",
+      "meaning": "Eternal, immortal",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 14,
+      "name": "Sana",
+      "meaning": "Brilliance, radiance",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 15,
+      "name": "Yasir",
+      "meaning": "Wealthy, prosperous",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 16,
+      "name": "Nida",
+      "meaning": "Call, voice",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 17,
+      "name": "Imran",
+      "meaning": "Prosperous, full of life",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 18,
+      "name": "Sana",
+      "meaning": "Radiance",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 19,
+      "name": "Ibrahim",
+      "meaning": "Father of many",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 20,
+      "name": "Ayesha",
+      "meaning": "Alive, living",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 21,
+      "name": "Zahid",
+      "meaning": "Self-denying, ascetic",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 22,
+      "name": "Khansa",
+      "meaning": "A woman with good conduct",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 23,
+      "name": "Tariq",
+      "meaning": "Star, morning star",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 24,
+      "name": "Areeba",
+      "meaning": "Wise, intelligent",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 25,
+      "name": "Farhan",
+      "meaning": "Happy, joyful",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 26,
+      "name": "Mira",
+      "meaning": "Ocean, prosperous",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 27,
+      "name": "Junaid",
+      "meaning": "Soldier, warrior",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 28,
+      "name": "Rida",
+      "meaning": "Contentment",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 29,
+      "name": "Shahid",
+      "meaning": "Witness, martyr",
+      "country": "Pakistani",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 30,
+      "name": "Aiman",
+      "meaning": "Most righteous",
+      "country": "Pakistani",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 31,
+      "name": "Omar",
+      "meaning": "Long life",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 32,
+      "name": "Aisha",
+      "meaning": "Alive and well",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 33,
+      "name": "Ali",
+      "meaning": "Exalted, noble",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 34,
+      "name": "Layla",
+      "meaning": "Night, dark beauty",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 35,
+      "name": "Hassan",
+      "meaning": "Handsome",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 36,
+      "name": "Zainab",
+      "meaning": "Father's precious jewel",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 37,
+      "name": "Yusuf",
+      "meaning": "God increases",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 38,
+      "name": "Mariam",
+      "meaning": "Beloved, rebellious",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 39,
+      "name": "Khalid",
+      "meaning": "Eternal, immortal",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 40,
+      "name": "Fatima",
+      "meaning": "Captivating",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 41,
+      "name": "Abdullah",
+      "meaning": "Servant of Allah",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 42,
+      "name": "Nura",
+      "meaning": "Light",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 43,
+      "name": "Tariq",
+      "meaning": "Star, morning star",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 44,
+      "name": "Safa",
+      "meaning": "Pure, clear",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 45,
+      "name": "Imran",
+      "meaning": "Prosperous, full of life",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 46,
+      "name": "Rania",
+      "meaning": "Gazing, looking at",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 47,
+      "name": "Zayd",
+      "meaning": "Growth, abundance",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 48,
+      "name": "Samira",
+      "meaning": "Companion in evening talk",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 49,
+      "name": "Rashid",
+      "meaning": "Rightly guided",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 50,
+      "name": "Huda",
+      "meaning": "Guidance",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 51,
+      "name": "Othman",
+      "meaning": "Tender, soft",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 52,
+      "name": "Lina",
+      "meaning": "Tender, delicate",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 53,
+      "name": "Zakir",
+      "meaning": "Remembrance",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 54,
+      "name": "Maya",
+      "meaning": "Princess, Illusion",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 55,
+      "name": "Anwar",
+      "meaning": "Radiant, luminous",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 56,
+      "name": "Amina",
+      "meaning": "Safe, secure",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 57,
+      "name": "Saad",
+      "meaning": "Lucky, fortunate",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 58,
+      "name": "Khadija",
+      "meaning": "Early baby, first wife of Prophet",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 59,
+      "name": "Nabil",
+      "meaning": "Noble, highborn",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 60,
+      "name": "Jamilah",
+      "meaning": "Beautiful",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 61,
+      "name": "Ibrahim",
+      "meaning": "Father of many",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 62,
+      "name": "Samiya",
+      "meaning": "Elevated, sublime",
+      "country": "Arabic",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 63,
+      "name": "Nashit",
+      "meaning": "Energetic, active",
+      "country": "Arabic",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 64,
+      "name": "Mia",
+      "meaning": "Mine",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 65,
+      "name": "Olivia",
+      "meaning": "Olive tree",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 66,
+      "name": "Emily",
+      "meaning": "Rival",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 67,
+      "name": "Sophia",
+      "meaning": "Wisdom",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 68,
+      "name": "Isabella",
+      "meaning": "Devoted to God",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 69,
+      "name": "Charlotte",
+      "meaning": "Free man",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 70,
+      "name": "Amelia",
+      "meaning": "Work",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 71,
+      "name": "Avery",
+      "meaning": "Ruler of the elves",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 72,
+      "name": "Scarlett",
+      "meaning": "Red",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 73,
+      "name": "Victoria",
+      "meaning": "Victory",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 74,
+      "name": "Madison",
+      "meaning": "Son of Maud",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 75,
+      "name": "Chloe",
+      "meaning": "Green shoot",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 76,
+      "name": "Evelyn",
+      "meaning": "Wished for child",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 77,
+      "name": "Grace",
+      "meaning": "Grace, elegance",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 78,
+      "name": "Lily",
+      "meaning": "Lily flower",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 79,
+      "name": "Zoe",
+      "meaning": "Life",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 80,
+      "name": "Hannah",
+      "meaning": "Grace",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 81,
+      "name": "Samantha",
+      "meaning": "Listener",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 82,
+      "name": "Addison",
+      "meaning": "Son of Adam",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 83,
+      "name": "Ella",
+      "meaning": "Fairy maiden",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 84,
+      "name": "Grace",
+      "meaning": "Graceful, elegant",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 85,
+      "name": "Aria",
+      "meaning": "Air, song",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 86,
+      "name": "Megan",
+      "meaning": "Pearl",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 87,
+      "name": "Aubrey",
+      "meaning": "Elf ruler",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 88,
+      "name": "Lucy",
+      "meaning": "Light",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 89,
+      "name": "Ruby",
+      "meaning": "Precious stone",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 90,
+      "name": "Ariana",
+      "meaning": "Most holy",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 91,
+      "name": "Emma",
+      "meaning": "Universal",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 92,
+      "name": "Lila",
+      "meaning": "Night",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 93,
+      "name": "Penelope",
+      "meaning": "Weaver",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 94,
+      "name": "Leah",
+      "meaning": "Weary",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 95,
+      "name": "Sadie",
+      "meaning": "Princess",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 96,
+      "name": "Lola",
+      "meaning": "Strong woman",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 97,
+      "name": "Daisy",
+      "meaning": "Day’s eye",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 98,
+      "name": "Ivy",
+      "meaning": "Faithfulness",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 99,
+      "name": "Claire",
+      "meaning": "Clear, bright",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 100,
+      "name": "Mackenzie",
+      "meaning": "Son of Kenneth",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 101,
+      "name": "Eleanor",
+      "meaning": "Shining light",
+      "country": "American",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 102,
+      "name": "Joseph",
+      "meaning": "God will increase",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 103,
+      "name": "James",
+      "meaning": "Supplanter",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 104,
+      "name": "John",
+      "meaning": "God is gracious",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 105,
+      "name": "David",
+      "meaning": "Beloved",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 106,
+      "name": "Michael",
+      "meaning": "Who is like God?",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 107,
+      "name": "William",
+      "meaning": "Resolute protector",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 108,
+      "name": "Joshua",
+      "meaning": "God is salvation",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 109,
+      "name": "Daniel",
+      "meaning": "God is my judge",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 110,
+      "name": "Matthew",
+      "meaning": "Gift of God",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 111,
+      "name": "Ethan",
+      "meaning": "Strong, firm",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 112,
+      "name": "Alexander",
+      "meaning": "Defender of the people",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 113,
+      "name": "Sebastian",
+      "meaning": "Venerable",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 114,
+      "name": "Jack",
+      "meaning": "God is gracious",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 115,
+      "name": "Samuel",
+      "meaning": "Name of God",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 116,
+      "name": "David",
+      "meaning": "Beloved",
+      "country": "American",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 117,
+      "name": "Chloé",
+      "meaning": "Green shoot",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 118,
+      "name": "Sophie",
+      "meaning": "Wisdom",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 119,
+      "name": "Camille",
+      "meaning": "Helper to the priest",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 120,
+      "name": "Isabelle",
+      "meaning": "Devoted to God",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 121,
+      "name": "Élise",
+      "meaning": "God is my oath",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 122,
+      "name": "Juliette",
+      "meaning": "Youthful",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 123,
+      "name": "Claire",
+      "meaning": "Clear, bright",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 124,
+      "name": "Marie",
+      "meaning": "Sea of bitterness",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 125,
+      "name": "Manon",
+      "meaning": "Bitter",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 126,
+      "name": "Amandine",
+      "meaning": "Worth loving",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 127,
+      "name": "Élodie",
+      "meaning": "Marsh flower",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 128,
+      "name": "Charlotte",
+      "meaning": "Free man",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 129,
+      "name": "Léa",
+      "meaning": "Weary",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 130,
+      "name": "Lola",
+      "meaning": "Strong woman",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 131,
+      "name": "Sarah",
+      "meaning": "Princess",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 132,
+      "name": "Amélie",
+      "meaning": "Hardworking",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 133,
+      "name": "Jade",
+      "meaning": "Precious stone",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 134,
+      "name": "Céline",
+      "meaning": "Heavenly",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 135,
+      "name": "Sabrina",
+      "meaning": "From the river Severn",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 136,
+      "name": "Inès",
+      "meaning": "Pure",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 137,
+      "name": "Audrey",
+      "meaning": "Noble strength",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 138,
+      "name": "Violette",
+      "meaning": "Purple flower",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 139,
+      "name": "Joséphine",
+      "meaning": "Jehovah increases",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 140,
+      "name": "Chantal",
+      "meaning": "Stone, boulder",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 141,
+      "name": "Florence",
+      "meaning": "Flourishing",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 142,
+      "name": "Catherine",
+      "meaning": "Pure",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 143,
+      "name": "Bernadette",
+      "meaning": "Brave as a bear",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 144,
+      "name": "Margaux",
+      "meaning": "Pearl",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 145,
+      "name": "Adèle",
+      "meaning": "Noble",
+      "country": "French",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 146,
+      "name": "Antoine",
+      "meaning": "Priceless, inestimable",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 147,
+      "name": "Louis",
+      "meaning": "Famous warrior",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 148,
+      "name": "Pierre",
+      "meaning": "Stone, rock",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 149,
+      "name": "François",
+      "meaning": "Free man",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 150,
+      "name": "Julien",
+      "meaning": "Youthful",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 151,
+      "name": "Michel",
+      "meaning": "Who is like God?",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 152,
+      "name": "Étienne",
+      "meaning": "Crown, garland",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 153,
+      "name": "Thibault",
+      "meaning": "Brave people",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 154,
+      "name": "Hugo",
+      "meaning": "Mind, intellect",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 155,
+      "name": "Léo",
+      "meaning": "Lion",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 156,
+      "name": "Maxime",
+      "meaning": "The greatest",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 157,
+      "name": "Luc",
+      "meaning": "Light",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 158,
+      "name": "Gabriel",
+      "meaning": "God is my strength",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 159,
+      "name": "Alexandre",
+      "meaning": "Defender of the people",
+      "country": "French",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 160,
+      "name": "Ayu",
+      "meaning": "Beautiful",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 161,
+      "name": "Siti",
+      "meaning": "Lady, princess",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 162,
+      "name": "Putri",
+      "meaning": "Princess",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 163,
+      "name": "Dewi",
+      "meaning": "Goddess",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 164,
+      "name": "Nina",
+      "meaning": "Grace, favor",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 165,
+      "name": "Rina",
+      "meaning": "Peaceful",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 166,
+      "name": "Wulan",
+      "meaning": "Moon",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 167,
+      "name": "Maya",
+      "meaning": "Illusion, dream",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 168,
+      "name": "Sari",
+      "meaning": "Essence, core",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 169,
+      "name": "Lestari",
+      "meaning": "Eternal, everlasting",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 170,
+      "name": "Citra",
+      "meaning": "Image, symbol",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 171,
+      "name": "Sari",
+      "meaning": "Essence",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 172,
+      "name": "Kartika",
+      "meaning": "Star",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 173,
+      "name": "Tina",
+      "meaning": "Queen, pure",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 174,
+      "name": "Indah",
+      "meaning": "Beautiful",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 175,
+      "name": "Fitri",
+      "meaning": "Pure, holy",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 176,
+      "name": "Ratna",
+      "meaning": "Gem, jewel",
+      "country": "Indonesian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 177,
+      "name": "Budi",
+      "meaning": "Goodness",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 178,
+      "name": "Arief",
+      "meaning": "Wise, prudent",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 179,
+      "name": "Danu",
+      "meaning": "River, water",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 180,
+      "name": "Bima",
+      "meaning": "A great hero",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 181,
+      "name": "Aldi",
+      "meaning": "Noble, wise",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 182,
+      "name": "Eko",
+      "meaning": "First, one",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 183,
+      "name": "Joko",
+      "meaning": "Young man",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 184,
+      "name": "Riko",
+      "meaning": "Manly, brave",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 185,
+      "name": "Dika",
+      "meaning": "Righteous",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 186,
+      "name": "Rizki",
+      "meaning": "Gift, blessing",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 187,
+      "name": "Agus",
+      "meaning": "Great",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 188,
+      "name": "Hari",
+      "meaning": "Day, light",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 189,
+      "name": "Fajar",
+      "meaning": "Dawn",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 190,
+      "name": "Iwan",
+      "meaning": "Gift of God",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 191,
+      "name": "Taufik",
+      "meaning": "Success, guidance",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 192,
+      "name": "Dedi",
+      "meaning": "Beloved",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 193,
+      "name": "Rendy",
+      "meaning": "Strong, powerful",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 194,
+      "name": "Bayu",
+      "meaning": "Wind",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 195,
+      "name": "Sandy",
+      "meaning": "Protector",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 196,
+      "name": "Yudha",
+      "meaning": "Warrior",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 197,
+      "name": "Hadi",
+      "meaning": "Leader",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 198,
+      "name": "Prabu",
+      "meaning": "King",
+      "country": "Indonesian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 199,
+      "name": "Aaradhya",
+      "meaning": "One who is adored",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 200,
+      "name": "Priya",
+      "meaning": "Beloved, darling",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 201,
+      "name": "Aishwarya",
+      "meaning": "Prosperity, wealth",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 202,
+      "name": "Saanvi",
+      "meaning": "Knowledge, Goddess Lakshmi",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 203,
+      "name": "Isha",
+      "meaning": "Goddess, the one who protects",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 204,
+      "name": "Ananya",
+      "meaning": "Unique, incomparable",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 205,
+      "name": "Riya",
+      "meaning": "Singer, graceful",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 206,
+      "name": "Simran",
+      "meaning": "Remembrance, meditation",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 207,
+      "name": "Sneha",
+      "meaning": "Love, affection",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 208,
+      "name": "Nisha",
+      "meaning": "Night",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 209,
+      "name": "Divya",
+      "meaning": "Divine, heavenly",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 210,
+      "name": "Madhuri",
+      "meaning": "Sweet, charming",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 211,
+      "name": "Kriti",
+      "meaning": "A creation, a work of art",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 212,
+      "name": "Meera",
+      "meaning": "Ocean, a great saint",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 213,
+      "name": "Maya",
+      "meaning": "Illusion, enchantment",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 214,
+      "name": "Vaidehi",
+      "meaning": "Sita, wife of Lord Rama",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 215,
+      "name": "Kavya",
+      "meaning": "Poetry, intelligent",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 216,
+      "name": "Aarti",
+      "meaning": "A ritual of worship",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 217,
+      "name": "Shreya",
+      "meaning": "Auspicious, lucky",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 218,
+      "name": "Tanu",
+      "meaning": "Slender, graceful",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 219,
+      "name": "Radhika",
+      "meaning": "Success, prosperous",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 220,
+      "name": "Ayesha",
+      "meaning": "Alive, prosperous",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 221,
+      "name": "Nandini",
+      "meaning": "Daughter, Goddess Durga",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 222,
+      "name": "Tanvi",
+      "meaning": "Delicate, beautiful",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 223,
+      "name": "Laxmi",
+      "meaning": "Goddess of wealth",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 224,
+      "name": "Aarushi",
+      "meaning": "First rays of the sun",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 225,
+      "name": "Jasmine",
+      "meaning": "A fragrant flower",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 226,
+      "name": "Sakshi",
+      "meaning": "Witness, evidence",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 227,
+      "name": "Sanya",
+      "meaning": "Distinguished, eminent",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 228,
+      "name": "Pooja",
+      "meaning": "Worship, prayer",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 229,
+      "name": "Aditi",
+      "meaning": "Mother of the gods",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 230,
+      "name": "Sushmita",
+      "meaning": "Auspicious, fortunate",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 231,
+      "name": "Chandni",
+      "meaning": "Moonlight",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 232,
+      "name": "Nikita",
+      "meaning": "Victory, unconquered",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 233,
+      "name": "Anju",
+      "meaning": "Blessing, grace",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 234,
+      "name": "Bharati",
+      "meaning": "Goddess Saraswati",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 235,
+      "name": "Vandana",
+      "meaning": "Worship, prayer",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 236,
+      "name": "Ritika",
+      "meaning": "Movement, stream",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 237,
+      "name": "Amrita",
+      "meaning": "Immortal, nectar",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 238,
+      "name": "Parvati",
+      "meaning": "Goddess Durga",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 239,
+      "name": "Vasundhara",
+      "meaning": "Earth",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 240,
+      "name": "Tanushree",
+      "meaning": "Goddess Durga",
+      "country": "Indian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 241,
+      "name": "Arjun",
+      "meaning": "Bright, shining",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 242,
+      "name": "Raj",
+      "meaning": "King, ruler",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 243,
+      "name": "Vikram",
+      "meaning": "Bravery, valor",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 244,
+      "name": "Aarav",
+      "meaning": "Peaceful, calm",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 245,
+      "name": "Karan",
+      "meaning": "Warrior, knowledgeable",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 246,
+      "name": "Rohan",
+      "meaning": "Ascending, flower",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 247,
+      "name": "Siddharth",
+      "meaning": "One who has attained his goal",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 248,
+      "name": "Ishaan",
+      "meaning": "Lord Shiva, Sun",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 249,
+      "name": "Rahul",
+      "meaning": "Conqueror of all miseries",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 250,
+      "name": "Samarth",
+      "meaning": "Powerful, capable",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 251,
+      "name": "Dev",
+      "meaning": "God, deity",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 252,
+      "name": "Arvind",
+      "meaning": "Lotus, a sacred flower",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 253,
+      "name": "Manish",
+      "meaning": "Lord of the mind",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 254,
+      "name": "Nikhil",
+      "meaning": "Complete, whole",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 255,
+      "name": "Raghav",
+      "meaning": "Descendant of Raghu",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 256,
+      "name": "Harsh",
+      "meaning": "Happiness, delight",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 257,
+      "name": "Aditya",
+      "meaning": "Sun, the solar deity",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 258,
+      "name": "Sahil",
+      "meaning": "Guide, coast",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 259,
+      "name": "Ansh",
+      "meaning": "Part of, share",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 260,
+      "name": "Kushal",
+      "meaning": "Capable, expert",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 261,
+      "name": "Shivansh",
+      "meaning": "Part of Lord Shiva",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 262,
+      "name": "Yash",
+      "meaning": "Victory, glory",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 263,
+      "name": "Ayaan",
+      "meaning": "Gift of God",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 264,
+      "name": "Vishal",
+      "meaning": "Great, grand",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 265,
+      "name": "Om",
+      "meaning": "Sacred syllable",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 266,
+      "name": "Ritesh",
+      "meaning": "Lord of truth",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 267,
+      "name": "Vivek",
+      "meaning": "Wisdom, intellect",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 268,
+      "name": "Abhinav",
+      "meaning": "New, innovative",
+      "country": "Indian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 269,
+      "name": "Ana",
+      "meaning": "Grace",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 270,
+      "name": "Beatriz",
+      "meaning": "Bringer of happiness",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 271,
+      "name": "Carla",
+      "meaning": "Free woman",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 272,
+      "name": "Clara",
+      "meaning": "Bright, clear",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 273,
+      "name": "Daniela",
+      "meaning": "God is my judge",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 274,
+      "name": "Elisabete",
+      "meaning": "God is my oath",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 275,
+      "name": "Fernanda",
+      "meaning": "Adventurous, daring",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 276,
+      "name": "Gabriela",
+      "meaning": "God is my strength",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 277,
+      "name": "Helena",
+      "meaning": "Shining light",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 278,
+      "name": "Isabela",
+      "meaning": "Devoted to God",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 279,
+      "name": "Joana",
+      "meaning": "God is gracious",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 280,
+      "name": "Laura",
+      "meaning": "Laurel tree",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 281,
+      "name": "Maria",
+      "meaning": "Sea of bitterness",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 282,
+      "name": "Marta",
+      "meaning": "Lady, mistress of the house",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 283,
+      "name": "Patricia",
+      "meaning": "Noble",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 284,
+      "name": "Rita",
+      "meaning": "Pearl",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 285,
+      "name": "Sara",
+      "meaning": "Princess",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 286,
+      "name": "Sofia",
+      "meaning": "Wisdom",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 287,
+      "name": "Tatiana",
+      "meaning": "Fairy queen",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 288,
+      "name": "Teresa",
+      "meaning": "Harvester",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 289,
+      "name": "Valentina",
+      "meaning": "Strong, healthy",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 290,
+      "name": "Vanessa",
+      "meaning": "Butterfly",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 291,
+      "name": "Veronica",
+      "meaning": "True image",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 292,
+      "name": "Viviane",
+      "meaning": "Alive",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 293,
+      "name": "Yara",
+      "meaning": "Water lady",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 294,
+      "name": "Zita",
+      "meaning": "Little girl",
+      "country": "Portuguese",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 295,
+      "name": "André",
+      "meaning": "Manly, brave",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 296,
+      "name": "Bruno",
+      "meaning": "Brown, dark-haired",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 297,
+      "name": "Carlos",
+      "meaning": "Free man",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 298,
+      "name": "Diogo",
+      "meaning": "Teaching",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 299,
+      "name": "Eduardo",
+      "meaning": "Wealthy guardian",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 300,
+      "name": "Felipe",
+      "meaning": "Lover of horses",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 301,
+      "name": "Gustavo",
+      "meaning": "Staff of the gods",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 302,
+      "name": "Henrique",
+      "meaning": "Ruler of the household",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 303,
+      "name": "João",
+      "meaning": "God is gracious",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 304,
+      "name": "José",
+      "meaning": "God will increase",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 305,
+      "name": "Luan",
+      "meaning": "Moon",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 306,
+      "name": "Manuel",
+      "meaning": "God is with us",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 307,
+      "name": "Miguel",
+      "meaning": "Who is like God?",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 308,
+      "name": "Nuno",
+      "meaning": "Famous, noble",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 309,
+      "name": "Otávio",
+      "meaning": "Eighth",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 310,
+      "name": "Paulo",
+      "meaning": "Small, humble",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 311,
+      "name": "Pedro",
+      "meaning": "Rock, stone",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 312,
+      "name": "Rafael",
+      "meaning": "God has healed",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 313,
+      "name": "Ricardo",
+      "meaning": "Brave ruler",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 314,
+      "name": "Rodrigo",
+      "meaning": "Famous power",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 315,
+      "name": "Samuel",
+      "meaning": "God has heard",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 316,
+      "name": "Sérgio",
+      "meaning": "Servant",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 317,
+      "name": "Thiago",
+      "meaning": "Supplanter",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 318,
+      "name": "Vítor",
+      "meaning": "Victory",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 319,
+      "name": "Wellington",
+      "meaning": "From the wealthy estate",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 320,
+      "name": "Xavier",
+      "meaning": "New house",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 321,
+      "name": "Yago",
+      "meaning": "Supplanter",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 322,
+      "name": "Zé",
+      "meaning": "God increases",
+      "country": "Portuguese",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 323,
+      "name": "Ava",
+      "meaning": "Life",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 324,
+      "name": "Charlotte",
+      "meaning": "Free man",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 325,
+      "name": "Sophia",
+      "meaning": "Wisdom",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 326,
+      "name": "Emma",
+      "meaning": "Universal",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 327,
+      "name": "Olivia",
+      "meaning": "Olive tree",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 328,
+      "name": "Isabella",
+      "meaning": "Devoted to God",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 329,
+      "name": "Lily",
+      "meaning": "Purity, beauty",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 330,
+      "name": "Mia",
+      "meaning": "Mine",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 331,
+      "name": "Ella",
+      "meaning": "Fairy maiden",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 332,
+      "name": "Amelia",
+      "meaning": "Industrious, striving",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 333,
+      "name": "Grace",
+      "meaning": "Elegance, blessing",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 334,
+      "name": "Chloe",
+      "meaning": "Blooming",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 335,
+      "name": "Madeline",
+      "meaning": "High tower",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 336,
+      "name": "Scarlett",
+      "meaning": "Red",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 337,
+      "name": "Zoe",
+      "meaning": "Life",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 338,
+      "name": "Victoria",
+      "meaning": "Victory",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 339,
+      "name": "Hannah",
+      "meaning": "Grace",
+      "country": "Canadian",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 340,
+      "name": "Liam",
+      "meaning": "Strong-willed warrior",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 341,
+      "name": "Noah",
+      "meaning": "Rest, comfort",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 342,
+      "name": "Ethan",
+      "meaning": "Strong, firm",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 343,
+      "name": "James",
+      "meaning": "Supplanter",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 344,
+      "name": "Benjamin",
+      "meaning": "Son of the right hand",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 345,
+      "name": "Lucas",
+      "meaning": "Light",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 346,
+      "name": "Alexander",
+      "meaning": "Defender of the people",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 347,
+      "name": "Mason",
+      "meaning": "Stone worker",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 348,
+      "name": "William",
+      "meaning": "Resolute protector",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 349,
+      "name": "Daniel",
+      "meaning": "God is my judge",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 350,
+      "name": "Matthew",
+      "meaning": "Gift of God",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 351,
+      "name": "Jacob",
+      "meaning": "Supplanter",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 352,
+      "name": "Michael",
+      "meaning": "Who is like God?",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 353,
+      "name": "Ryan",
+      "meaning": "Little king",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 354,
+      "name": "Jack",
+      "meaning": "God is gracious",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 355,
+      "name": "Jackson",
+      "meaning": "Son of Jack",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 356,
+      "name": "Aiden",
+      "meaning": "Little fire",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 357,
+      "name": "Samuel",
+      "meaning": "God has heard",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 358,
+      "name": "David",
+      "meaning": "Beloved",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 359,
+      "name": "Joseph",
+      "meaning": "God will increase",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 360,
+      "name": "Oliver",
+      "meaning": "Olive tree",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 361,
+      "name": "Gabriel",
+      "meaning": "God is my strength",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 362,
+      "name": "Henry",
+      "meaning": "Ruler of the household",
+      "country": "Canadian",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 363,
+      "name": "Emma",
+      "meaning": "Universal",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 364,
+      "name": "Sophia",
+      "meaning": "Wisdom",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 365,
+      "name": "Mia",
+      "meaning": "Mine",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 366,
+      "name": "Hannah",
+      "meaning": "Grace",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 367,
+      "name": "Lea",
+      "meaning": "Weary",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 368,
+      "name": "Lena",
+      "meaning": "Bright, shining light",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 369,
+      "name": "Charlotte",
+      "meaning": "Free man",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 370,
+      "name": "Amelie",
+      "meaning": "Hardworking",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 371,
+      "name": "Marie",
+      "meaning": "Sea of bitterness",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 372,
+      "name": "Anna",
+      "meaning": "Grace, favor",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 373,
+      "name": "Clara",
+      "meaning": "Bright, clear",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 374,
+      "name": "Sophie",
+      "meaning": "Wisdom",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 375,
+      "name": "Ella",
+      "meaning": "Fairy maiden",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 376,
+      "name": "Lina",
+      "meaning": "Tender, delicate",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 377,
+      "name": "Nina",
+      "meaning": "Little girl, strong",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 378,
+      "name": "Maja",
+      "meaning": "Great",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 379,
+      "name": "Lilly",
+      "meaning": "Purity, beauty",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 380,
+      "name": "Eva",
+      "meaning": "Life",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 381,
+      "name": "Johanna",
+      "meaning": "God is gracious",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 382,
+      "name": "Mila",
+      "meaning": "Gracious, dear",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 383,
+      "name": "Paula",
+      "meaning": "Small, humble",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 384,
+      "name": "Sarah",
+      "meaning": "Princess",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 385,
+      "name": "Veronika",
+      "meaning": "Bringing victory",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 386,
+      "name": "Sina",
+      "meaning": "Lioness",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 387,
+      "name": "Franziska",
+      "meaning": "Free",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 388,
+      "name": "Victoria",
+      "meaning": "Victory",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 389,
+      "name": "Miriam",
+      "meaning": "Wished-for child",
+      "country": "German",
+      "type": "girl",
+      "isFavorite": false
+    },
+    {
+      "id": 390,
+      "name": "Noah",
+      "meaning": "Rest, comfort",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 391,
+      "name": "Liam",
+      "meaning": "Strong-willed warrior",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 392,
+      "name": "Paul",
+      "meaning": "Small, humble",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 393,
+      "name": "Leon",
+      "meaning": "Lion",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 394,
+      "name": "Maximilian",
+      "meaning": "Greatest",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 395,
+      "name": "Felix",
+      "meaning": "Happy, fortunate",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 396,
+      "name": "Elias",
+      "meaning": "The Lord is my God",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 397,
+      "name": "Jonas",
+      "meaning": "Dove",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 398,
+      "name": "David",
+      "meaning": "Beloved",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 399,
+      "name": "Jacob",
+      "meaning": "Supplanter",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 400,
+      "name": "Alexander",
+      "meaning": "Defender of the people",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 401,
+      "name": "Simon",
+      "meaning": "He has heard",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 402,
+      "name": "Benjamin",
+      "meaning": "Son of the right hand",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 403,
+      "name": "Samuel",
+      "meaning": "God has heard",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 404,
+      "name": "Gabriel",
+      "meaning": "God is my strength",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 405,
+      "name": "Luke",
+      "meaning": "Light-giving",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 406,
+      "name": "Julian",
+      "meaning": "Youthful, downy",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 407,
+      "name": "Mark",
+      "meaning": "Warlike",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 408,
+      "name": "Christian",
+      "meaning": "Follower of Christ",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 409,
+      "name": "Oskar",
+      "meaning": "God's spear",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 410,
+      "name": "Timothy",
+      "meaning": "Honoring God",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 411,
+      "name": "Hugo",
+      "meaning": "Mind, intellect",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 412,
+      "name": "Arthur",
+      "meaning": "Noble, courageous",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 413,
+      "name": "Karl",
+      "meaning": "Free man",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 414,
+      "name": "Matthias",
+      "meaning": "Gift of God",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 415,
+      "name": "Victor",
+      "meaning": "Conqueror",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 416,
+      "name": "Albert",
+      "meaning": "Noble, bright",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    },
+    {
+      "id": 417,
+      "name": "Friedrich",
+      "meaning": "Peaceful ruler",
+      "country": "German",
+      "type": "boy",
+      "isFavorite": false
+    }
+  ]
+}

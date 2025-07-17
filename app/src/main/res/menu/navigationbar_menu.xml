@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="Home"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconColor="@color/primary"
+        app:cnb_textColor="@color/primary"
+        />
+
+    <item
+        android:id="@+id/tools"
+        android:icon="@drawable/menu_circle"
+        android:title="Tools"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconColor="@color/primary"
+        app:cnb_textColor="@color/primary"
+        />
+
+    <item
+        android:id="@+id/exercise"
+        android:icon="@drawable/yoga"
+        android:title="Exercise"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconColor="@color/primary"
+        app:cnb_textColor="@color/primary"
+        />
+
+    <item
+        android:id="@+id/diet"
+        android:icon="@drawable/dietplan"
+        android:title="Diet"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconColor="@color/primary"
+        app:cnb_textColor="@color/primary"
+        />
+
+
+</menu>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_dueDateFragment"
+            app:destination="@id/dueDateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/dueDateFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.DueDateFragment"
+        android:label="DueDateFragment" >
+        <action
+            android:id="@+id/action_dueDateFragment_to_dueDateResultFragment"
+            app:destination="@id/dueDateResultFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_splashFragment_to_dueDateResultFragment"
+            app:destination="@id/dueDateResultFragment" />
+        <action
+            android:id="@+id/action_splashFragment_to_dueDateFragment"
+            app:destination="@id/dueDateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/genderPrediction"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.GenderPrediction"
+        android:label="fragment_gender_prediction"
+        tools:layout="@layout/fragment_gender_prediction" >
+        <action
+            android:id="@+id/action_genderPrediction_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" >
+        <action
+            android:id="@+id/action_settingsFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_mainFragment2"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_dueDateFragment"
+            app:destination="@id/dueDateFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_reportsFragment"
+            app:destination="@id/reportsFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_kickCounterFragment"
+            app:destination="@id/kickCounterFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_bloodPressureHistoryFragment"
+            app:destination="@id/bloodPressureHistoryFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_medicineReminderFragment"
+            app:destination="@id/medicineReminderFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_babySizeFragment"
+            app:destination="@id/babySizeFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_scansFragment"
+            app:destination="@id/scansFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_lungsExerciseFragment"
+            app:destination="@id/lungsExerciseFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_babyNameFragment"
+            app:destination="@id/babyNameFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_ovulationFragment"
+            app:destination="@id/ovulationFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_weightTrackerFragment"
+            app:destination="@id/weightTrackerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/dueDateResultFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.DueDateResultFragment"
+        android:label="fragment_due_date_result"
+        tools:layout="@layout/fragment_due_date_result" >
+        <action
+            android:id="@+id/action_dueDateResultFragment_to_genderPrediction"
+            app:destination="@id/genderPrediction" />
+        <action
+            android:id="@+id/action_dueDateResultFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bloodPressureRecordFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BloodPressureRecordFragment"
+        android:label="fragment_blood_pressure_record"
+        tools:layout="@layout/fragment_blood_pressure_record" >
+        <action
+            android:id="@+id/action_bloodPressureRecordFragment_to_bloodPressureResultFragment"
+            app:destination="@id/bloodPressureResultFragment" />
+        <action
+            android:id="@+id/action_bloodPressureRecordFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bloodPressureResultFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BloodPressureResultFragment"
+        android:label="fragment_blood_pressure_result"
+        tools:layout="@layout/fragment_blood_pressure_result" >
+        <action
+            android:id="@+id/action_bloodPressureResultFragment_to_bloodPressureRecordFragment"
+            app:destination="@id/bloodPressureRecordFragment" />
+        <action
+            android:id="@+id/action_bloodPressureResultFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_mainFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_genderPrediction"
+            app:destination="@id/genderPrediction" />
+        <action
+            android:id="@+id/action_mainFragment_to_bloodPressureResultFragment"
+            app:destination="@id/bloodPressureResultFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_bloodPressureRecordFragment"
+            app:destination="@id/bloodPressureRecordFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_exerciseDetailFragment"
+            app:destination="@id/exerciseDetailFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_blogDetailsFragment"
+            app:destination="@id/blogDetailsFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_scansFragment"
+            app:destination="@id/scansFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_dueDateFragment"
+            app:destination="@id/dueDateFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_babySizeFragment"
+            app:destination="@id/babySizeFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_AiDoctorFragment"
+            app:destination="@id/aiDoctorFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_bloodPressureHistoryFragment"
+            app:destination="@id/bloodPressureHistoryFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_reportsFragment"
+            app:destination="@id/reportsFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_lungsExerciseFragment"
+            app:destination="@id/lungsExerciseFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_kickCounterFragment"
+            app:destination="@id/kickCounterFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_ovulationFragment"
+            app:destination="@id/ovulationFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_ovulationFragment2"
+            app:destination="@id/ovulationFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_weightTrackerFragment"
+            app:destination="@id/weightTrackerFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_medicineReminderFragment"
+            app:destination="@id/medicineReminderFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_mealFragment"
+            app:destination="@id/mealFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_blogsFragment"
+            app:destination="@id/blogsFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_babyNameFragment"
+            app:destination="@id/babyNameFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_trimesterChartFragment"
+            app:destination="@id/trimesterChartFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_AIDoctorPromptFragment"
+            app:destination="@id/AIDoctorPromptFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_babyImageGridFragment"
+            app:destination="@id/babyImageGridFragment" />
+    </fragment>
+<!--       <fragment-->
+<!--            android:id="@+id/action_mainFragment_to_babyNameFragment"-->
+<!--            app:destination="@id/babyNameFragment" />-->
+ 
+    <fragment
+        android:id="@+id/exerciseDetailFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.ExerciseDetailFragment"
+        android:label="fragment_exercise_details"
+        tools:layout="@layout/fragment_exercise_details" >
+        <action
+            android:id="@+id/action_exerciseDetailFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/blogDetailsFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BlogDetailsFragment"
+        android:label="fragment_blog_details"
+        tools:layout="@layout/fragment_blog_details" >
+        <action
+            android:id="@+id/action_blogDetailsFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_blogDetailsFragment_to_blogsFragment"
+            app:destination="@id/blogsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/scansFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.ScansFragment"
+        android:label="fragment_scans"
+        tools:layout="@layout/fragment_scans" >
+        <action
+            android:id="@+id/action_scansFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/babySizeFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BabySizeFragment"
+        android:label="BabySizeFragment" >
+        <action
+            android:id="@+id/action_babySizeFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bloodPressureHistoryFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BloodPressureHistoryFragment"
+        android:label="fragment_blood_pressure_history"
+        tools:layout="@layout/fragment_blood_pressure_history" >
+        <action
+            android:id="@+id/action_bloodPressureHistoryFragment_to_bloodPressureRecordFragment"
+            app:destination="@id/bloodPressureRecordFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/reportsFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.ReportsFragment"
+        android:label="fragment_reports"
+        tools:layout="@layout/fragment_reports" >
+        <action
+            android:id="@+id/action_reportsFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_reportsFragment_to_reportDetailsFragment"
+            app:destination="@id/reportDetailsFragment" />
+        <action
+            android:id="@+id/action_reportsFragment_self"
+            app:destination="@id/reportsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/reportDetailsFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.ReportDetailsFragment"
+        android:label="fragment_report_details"
+        tools:layout="@layout/fragment_report_details" >
+        <action
+            android:id="@+id/action_reportDetailsFragment_to_reportsFragment"
+            app:destination="@id/reportsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/lungsExerciseFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.LungsExerciseFragment"
+        android:label="LungsExerciseFragment" >
+        <action
+            android:id="@+id/action_lungsExerciseFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kickCounterFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.KickCounterFragment"
+        android:label="fragment_kick_counter"
+        tools:layout="@layout/fragment_kick_counter" >
+        <action
+            android:id="@+id/action_kickCounterFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ovulationFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.OvulationFragment"
+        android:label="fragment_ovulation"
+        tools:layout="@layout/fragment_ovulation" >
+        <action
+            android:id="@+id/action_ovulationFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_ovulationFragment_to_ovulationCalenderFragment"
+            app:destination="@id/ovulationCalenderFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/weightTrackerFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.WeightTrackerFragment"
+        android:label="fragment_weight_tracker"
+        tools:layout="@layout/fragment_weight_tracker" >
+        <action
+            android:id="@+id/action_weightTrackerFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_weightTrackerFragment_to_weightResultFragment"
+            app:destination="@id/weightResultFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/weightResultFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.WeightResultFragment"
+        android:label="fragment_weight_result"
+        tools:layout="@layout/fragment_weight_result" >
+        <action
+            android:id="@+id/action_weightResultFragment_to_weightTrackerFragment"
+            app:destination="@id/weightTrackerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/medicineReminderFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.MedicineReminderFragment"
+        android:label="MedicineReminderFragment" >
+        <action
+            android:id="@+id/action_medicineReminderFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_medicineReminderFragment_to_addMedicineReminderFragment"
+            app:destination="@id/addMedicineReminderFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addMedicineReminderFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.AddMedicineReminderFragment"
+        android:label="fragment_add_medicine_reminder"
+        tools:layout="@layout/fragment_add_medicine_reminder" >
+        <action
+            android:id="@+id/action_addMedicineReminderFragment_to_medicineReminderFragment"
+            app:destination="@id/medicineReminderFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/aiDoctorFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.AiDoctorFragment"
+        android:label="fragment_ai_doctor"
+        tools:layout="@layout/fragment_ai_doctor">
+        <action
+            android:id="@+id/action_aiDoctorFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_aiDoctorFragment_to_AIDoctorPromptFragment"
+            app:destination="@id/AIDoctorPromptFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ovulationCalenderFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.OvulationCalenderFragment"
+        android:label="fragment_ovulation_calender"
+        tools:layout="@layout/fragment_ovulation_calender" >
+        <action
+            android:id="@+id/action_ovulationCalenderFragment_to_ovulationFragment"
+            app:destination="@id/ovulationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mealFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.MealFragment"
+        android:label="fragment_meal"
+        tools:layout="@layout/fragment_meal" >
+        <action
+            android:id="@+id/action_mealFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/blogsFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BlogsFragment"
+        android:label="fragment_blogs"
+        tools:layout="@layout/fragment_blogs" >
+        <action
+            android:id="@+id/action_blogsFragment_to_blogDetailsFragment"
+            app:destination="@id/blogDetailsFragment" />
+        <action
+            android:id="@+id/action_blogsFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+              </fragment>
+        <fragment
+        android:id="@+id/babyNameFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BabyNameFragment"
+        android:label="fragment_baby_name"
+        tools:layout="@layout/fragment_baby_name" >
+        <action
+            android:id="@+id/action_babyNameFragment_to_babyNameListFragment"
+            app:destination="@id/babyNameListFragment" />
+        <action
+            android:id="@+id/action_babyNameFragment_to_babyNameListFragment2"
+            app:destination="@id/babyNameListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/babyNameListFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BabyNameListFragment"
+        android:label="fragment_baby_name_list"
+        tools:layout="@layout/fragment_baby_name_list" >
+        <action
+            android:id="@+id/action_babyNameListFragment_to_babyNameFragment"
+            app:destination="@id/babyNameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/trimesterChartFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.TrimesterChartFragment"
+        android:label="fragment_trimester_chart"
+        tools:layout="@layout/fragment_trimester_chart" />
+    <fragment
+        android:id="@+id/AIDoctorPromptFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.AIDoctorPromptFragment"
+        android:label="AIDoctorPromptFragment" >
+        <action
+            android:id="@+id/action_AIDoctorPromptFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_AIDoctorPromptFragment_to_aiDoctorFragment"
+            app:destination="@id/aiDoctorFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/babyImageGridFragment"
+        android:name="com.example.pregnancytrackerignite.presentation.fragments.BabyImageGridFragment"
+        android:label="fragment_baby_image_grid"
+        tools:layout="@layout/fragment_baby_image_grid" >
+        <action
+            android:id="@+id/action_babyImageGridFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+
+    <action
+        android:id="@+id/toBlogDetailsFragment"
+        app:destination="@id/blogDetailsFragment" />
+</navigation>

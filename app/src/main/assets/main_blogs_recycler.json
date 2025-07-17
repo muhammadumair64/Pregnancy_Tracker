@@ -1,0 +1,204 @@
+{
+  "Blogs": [
+    {
+      "id": "01",
+      "Title": "Dietary and Caloric Recommendations",
+      "image": "https://merrionultrasound.ie/wp-content/uploads/2024/01/nutrition-during-pregnancy.jpg",
+      "Source": "https://www.hopkinsmedicine.org/",
+      "Author": "Emily Harper",
+      "Type": "Nutrition",
+      "Date": "July 09, 2024",
+      "para": "To maintain a healthy pregnancy, approximately 300 extra calories are needed each day. These calories should come from a balanced diet of protein, fruits, vegetables and whole grains. Sweets and fats should be kept to a minimum. A healthy, well-balanced diet can also help to reduce some pregnancy symptoms, such as nausea and constipation."
+    },
+    {
+      "id": "02",
+      "Title": "Optimising Maternal Health: A Comprehensive Guide to Nutrition During Pregnancy",
+      "image": "https://merrionultrasound.ie/wp-content/uploads/2024/01/essential-vitamins-for-pregnancy-980x560.jpg",
+      "Source": "https://merrionultrasound.ie/",
+      "Author": "John Wilson",
+      "Type": "Nutrition",
+      "Date": "September 07, 2024",
+      "para": "Nutrition plays a crucial role in promoting optimal health for both the mother and the developing baby during pregnancy. A healthy pregnancy diet should include a variety of nutrient-dense foods, such as fruits, vegetables, lean proteins, whole grains, and healthy fats. Adequate nutrient intake is essential for the proper development of the baby’s organs, tissues, and skeletal structure. Nutrients like folate, iron, calcium, and omega-3 fatty acids are particularly important during pregnancy. Folate helps prevent neural tube defects, while iron supports the production of red blood cells and prevents anemia. Calcium is necessary for the development of strong bones and teeth, and omega-3 fatty acids, especially DHA, aid in the baby’s brain development."
+    },
+    {
+      "id": "03",
+      "Title": "Food cravings in pregnancy: Researchers have discovered neural mechanisms that regulate it during pregnancy",
+      "image": "https://merrionultrasound.ie/wp-content/uploads/2022/06/Food-cravings-in-pregnancy-2.jpeg",
+      "Source": "https://merrionultrasound.ie/",
+      "Author": "Sophia Carter",
+      "Type": "Nutrition",
+      "Date": "September 19, 2024",
+      "para": "A lot of people have had the uncontrollable desire to eat a particular food. These cravings (also known as food cravings) are pretty common, particularly during pregnancy. During this period, the mother’s body undergoes a range of behavioral and physiological changes to provide a favourable climate for the development of the embryo. However, frequent consumption of high-calorie, tasty foods (due to cravings) may contribute to obesity and weight gain, and during pregnancy, that can be harmful to the baby’s health. Did you ever wonder what role dopamine might play in this?"
+    },
+    {
+      "id": "04",
+      "Title": "Pregnancy stages and changes",
+      "image": "https://healthbanks.us/wp-content/uploads/2022/03/Pregnancy-Stages-Infographic-copy.jpg",
+      "Source": "https://www.betterhealth.vic.gov.au/",
+      "Author": "Liam Johnson",
+      "Type": "Body",
+      "Date": "September 19, 2024",
+      "para": "If you are pregnant, your body is experiencing major change. From symptoms that you might expect, to ones that are completely unexpected, every woman will have a different pregnancy experience. We talk about 3 stages of pregnancy – first trimester, second trimester and third trimester. Some physical and emotional experiences are more common in each of these trimesters."
+    },
+    {
+      "id": "05",
+      "Title": "Body Changes to Expect during Pregnancy",
+      "image": "https://familydoctor.org/wp-content/uploads/2016/11/pregnancy-test-848x445.jpg",
+      "Source": "https://unmhealth.org/",
+      "Author": "Olivia Brown",
+      "Type": "Body",
+      "Date": "August 13, 2023",
+      "para": "Food cravings. Morning sickness. Sore and swollen breasts. These are all well-known symptoms that many pregnant women encounter. But pregnancy can cause all sorts of seemingly strange things to happen to your body. I know firsthand, having experienced several of these side effects during my own prior pregnancy- and I am just getting started again with my second as I am in the second trimester now. It can be difficult to tell what’s normal and what's not when so many changes are happening at once. So, let’s take a look at some of the less expected – but all normal – side effects of pregnancy, your treatment options and when to talk with a doctor."
+    },
+    {
+      "id": "06",
+      "Title": "Body Changes from Non-pregnant to Pregnant",
+      "image": "https://www.csh.org.tw/dr.tcj/educartion/teaching/PregChange1/bodychanges.jpg",
+      "Source": "https://www.csh.org.tw/",
+      "Author": "Ethan Miller",
+      "Type": "Body",
+      "Date": "January 24, 2024",
+      "para": "Breasts - Increase in size, nodularity and sensitivity. Production of colostrum occurs in late pregnancy. Breasts weigh each 1/2 pound by delivery. Uterus - It's weight increases from 2 oz to 2 lb at term and volume of its cavity increases from 10 mL (2 tsp) to 2-10 L at term. Blood - Total blood plasma volume increases by 50%. Lungs - Expansion and flaring of lower ribs due to increased capacity of lung volume. Oxygen consumption increases by 14%, half going to developing fetus, and rest consumed by growing uterus, breast tissue, and increased respiratory and cardiac demands. Heart - increases in size due to increased workload and cardiac output. Heart moves upward and laterally from non-pregnant position. Bladder - Growing uterus displaces the bladder forward and upward. Bladder volume decreases as compression of uterus increases."
+    },
+    {
+      "id": "07",
+      "Title": "Body Image: Loving Your Body Before, During, and After Your Pregnancy",
+      "image": "https://americanpregnancy.org/wp-content/uploads/2012/04/body_image_loving_yourself.jpg",
+      "Source": "https://americanpregnancy.org/",
+      "Author": "Ava Davis",
+      "Type": "Body",
+      "Date": "November 16, 2022",
+      "para": "Loving your body image before pregnancy can help you get through the physical and emotional changes during pregnancy. Having a positive body image of yourself is not about what you look like, but how you feel about yourself. This is crucial in pregnancy since there will be body changes that you cannot control. It is also helpful to understand why your body is going through these changes."
+    },
+    {
+      "id": "08",
+      "Title": "Myths vs. Facts: Signs You’re Having a Baby Girl",
+      "image": "https://appnhs24wp41a8c38064.blob.core.windows.net/blobappnhs24wp41a8c38064/wp-content/uploads/2023/04/weeks6to9-2.png",
+      "Source": "https://www.healthline.com/",
+      "Author": "Benjamin Garcia",
+      "Type": "Baby",
+      "Date": "April 19, 2024",
+      "para": "Are you having a girl or boy? The sex reveal is probably one of the most exciting parts of your pregnancy. But is there any way to learn the answer without an ultrasound? How accurate are all of those stories about sex prediction, anyway? If you’re hoping for a girl, you’re probably taking a look at all the clues — both anecdotal and otherwise."
+    },
+    {
+      "id": "09",
+      "Title": "Baby movements during pregnancy: Understanding what’s normal and what’s abnormal",
+      "image": "https://images.healthshots.com/healthshots/en/uploads/2022/07/07124421/pregnancy-770x436.jpg",
+      "Source": "https://www.healthshots.com/",
+      "Author": "Mia Martinez",
+      "Type": "Baby",
+      "Date": "September 07, 2024",
+      "para": "One of the most important milestones in pregnancy is when the mother starts to feel the baby’s movements in her womb. It indicates the good health and well being of the little one, and strengthens the bond between the mother and child. But sometimes, it can be difficult for the new mother to understand until a movement pattern is established, and sometimes even after that, it gets difficult to assess whether the baby is fine or not."
+    },
+    {
+      "id": "10",
+      "Title": "Bonding With Your Baby During Pregnancy",
+      "image": "https://immunifyme.com/blog/wp-content/uploads/2020/10/oo.jpg",
+      "Source": "https://immunifyme.com/",
+      "Author": "Charlotte Thompson",
+      "Type": "Baby",
+      "Date": "May 06, 2024",
+      "para": "Pregnancy is a magical time for a mother. What you might not realize is that it is a magical time for the baby as well. All their senses are slowly developing, meaning that every day they become a little more aware of themselves, and well as their surroundings. As you grow in your journey of motherhood, ensure you try bonding with your baby during pregnancy. Read on for the many benefits you and your little one can experience!"
+    },
+    {
+      "id": "11",
+      "Title": "Medical Care During Pregnancy",
+      "image": "https://www.pbmchealth.org/application/files/1615/7442/5811/rev_Peconic_Bay_Medical_Center_The_Importance_of_Prenatal_Care_IMAGE.jpeg",
+      "Source": "https://kidshealth.org/",
+      "Author": "James Anderson",
+      "Type": "Medical",
+      "Date": "October 12, 2023",
+      "para": "Prenatal care is health care that a woman gets while pregnant. Going early and regularly for prenatal care can help moms-to-be — and their babies — stay healthy. Regular care lets doctors find and deal with any problems as soon as possible. It's important to start prenatal care as early as possible — ideally, even before a pregnancy starts."
+    },
+    {
+      "id": "12",
+      "Title": "Medicines in pregnancy",
+      "image": "https://i0.wp.com/www.emdocs.net/wp-content/uploads/2017/05/Screen-Shot-2017-05-09-at-12.41.47-AM.png",
+      "Source": "https://www.nhs.uk/",
+      "Author": "Emma Robinson",
+      "Type": "Medical",
+      "Date": "December 14, 2021",
+      "para": "Most medicines taken during pregnancy cross the placenta and reach the baby. Before taking any medicine when you're pregnant, including painkillers, check with your pharmacist, midwife or GP that it's suitable. When deciding whether to take a medicine during pregnancy, it's important to find out about the possible effects of that medicine on your baby. This is the case both for medicines prescribed by a doctor and for medicines you buy from a pharmacy or shop."
+    },
+    {
+      "id": "13",
+      "Title": "Medical Conditions and Pregnancy",
+      "image": "https://www.cdc.gov/pregnancy-hiv-std-tb-hepatitis/media/images/Pregnant-woman-receiving-medical-screening.jpg",
+      "Source": "https://www.hopkinsmedicine.org/",
+      "Author": "Noah Taylor",
+      "Type": "Medical",
+      "Date": "July 29, 2024",
+      "para": "Certain medical conditions may complicate a pregnancy. However, with proper medical care, most women can enjoy a healthy pregnancy in spite of medical challenges."
+    },
+    {
+      "id": "14",
+      "Title": "Is it safe to exercise in pregnancy?",
+      "image": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2648505.jpg",
+      "Source": "https://femalephysioco.com/safe-exercise-in-pregnancy/",
+      "Author": "Isabella Moore",
+      "Type": "Exercise",
+      "Date": "September 19, 2024",
+      "para": "When it comes to exercise in pregnancy, there are many opinions and theories that go around about what is and isn’t safe. It can be quite overwhelming especially if this is your first pregnancy. Historically, pregnant women were typically advised to rest in order to avoid the risk of harming them or their baby. Fast-forward to 2020 and research guidelines are changing more rapidly than ever. Why? Because we now have scientific proof to show the benefits of physical activity during pregnancy for both you and your baby. Given the physical demands of labour and delivery, it is important to maintain your physical strength and function to help you through this time. Exercising in pregnancy helps to reduce pelvic and lower back pain, reduces your risk of prolonged labour and instrumental delivery, reduces the risk of pre-eclampsia, reduces the risk of macrosomia (where the baby is born much larger than average), reduces the risk of pre-term delivery, helps to control maternal weight gain and reduces your risk of gestational diabetes."
+    },
+    {
+      "id": "15",
+      "Title": "Exercise During Pregnancy",
+      "image": "https://www.sparshhospital.com/wp-content/uploads/2023/10/Exercise-During-Pregnancy.jpg",
+      "Source": "https://www.sparshhospital.com/blog/exercise-during-pregnancy/",
+      "Author": "Lucas White",
+      "Type": "Exercise",
+      "Date": "October 1, 2023",
+      "para": "Pregnant people benefit highly from exercise. Your exercise routine would depend on how active you were prior to the pregnancy. Active people can remain active and sedentary people would be encouraged to start a mild exercise regimen. Exercise will help you to improve your mood, posture and endurance."
+    },
+    {
+      "id": "16",
+      "Title": "KEEP ALL YOUR MOVEMENTS SMOOTH!",
+      "image": "https://www.motherbabychild.com/wp-content/uploads/2022/12/Pregnant-woman-1.jpg",
+      "Source": "https://www.motherbabychild.com/2022/good-living/exercising-during-pregnancy-2/",
+      "Author": "Amelia Harris",
+      "Type": "Exercise",
+      "Date": "June 13, 2023",
+      "para": "Regardless of the kind of exercise you do when expecting, the changes that occur in your body during pregnancy can make it easier to injure your joints, so steer clear of exercise that requires sudden, jerky or high impact movements! Some women are more prone to dizziness if they change position quickly. Also, good to remember is that your centre of gravity shifts as your belly grows, so it’s easier to lose your balance and fall doing activities that would have been easy for you before your pregnancy."
+    },
+    {
+      "id": "17",
+      "Title": "Pelvic Floor Exercises during Pregnancy",
+      "image": "https://www.babyinfo.com.au/wp-content/uploads/2020/08/pelvic_floor_exercises_babyinfo.jpg",
+      "Source": "https://www.babyinfo.com.au/pregnancy/health-and-fitness/pelvic-floor-exercises/",
+      "Author": "Alexander Clark",
+      "Type": "Exercise",
+      "Date": "February 7, 2024",
+      "para": "Both women and men have a pelvic floor, but it plays an extra roll for women. It is the connective tissue, muscles, ligaments and nerves that support the bladder, rectum, uterus, and vagina. The muscles of the pelvic floor stretch from the pubic bone to the backbone. The pelvic floor is especially important during pregnancy. This is because it supports your growing uterus."
+    },
+    {
+      "id": "18",
+      "Title": "Husband and Wife Relationship during Pregnancy",
+      "image": "https://cdn.cdnparenting.com/articles/2018/03/348347537-H-1024x700.webp",
+      "Source": "https://parenting.firstcry.com/articles/husband-and-wife-relationship-during-pregnancy-things-you-need-to-know/",
+      "Author": "Evelyn Lewis",
+      "Type": "Relationship",
+      "Date": "October 27, 2023",
+      "para": "Pregnancy will bring about a lot of changes in your body and in your life. It can affect you both physically and mentally. During pregnancy, while you learn to deal (and try to embrace) with the physical changes in your body, you will also have to deal with the mental stress that you will take for no apparent reason. The worse? Pregnancy hormones, physical changes, or mental stress can affect your marriage and the bond that you share with your partner."
+    },
+    {
+      "id": "19",
+      "Title": "Relationship Problems During Pregnancy And Ways To Deal With Them",
+      "image": "https://www.growingself.com/wp-content/uploads/2018/01/kelly-sikkema-325963-e1515615807174.jpg.webp",
+      "Source": "https://www.megawecare.com/good-health-by-yourself/pregnancy/relationship-problems-during-pregnancy",
+      "Author": "Daniel Hall",
+      "Type": "Relationship",
+      "Date": "September 16, 2024",
+      "para": "Pregnancy is a crucial time for a couple as it can turn a lot of things around. It's a unique experience to go through with your partner. However, understanding each other through all of it can be a task. This article will tell you all about dealing with relationship problems during pregnancy."
+    },
+    {
+      "id": "20",
+      "Title": "How To Stay Connected To Your Husband During Pregnancy",
+      "image": "https://theempoweredmama.com/wp-content/uploads/2019/06/SML-7-Ways-to-Stay-Connected-to-Your-Husband-During-Pregnancy-5-1024x667.jpg.webp",
+      "Source": "https://theempoweredmama.com/ways-to-stay-connected-to-your-husband-during-pregnancy/",
+      "Author": "Grace Walker",
+      "Type": "Relationship",
+      "Date": "July 15, 2024",
+      "para": "When you think of what life is going to be like when you’re pregnant, there are all these ideas of beautiful moments with your husband, planning the nursery together, cooing over your growing belly – it all seems like a blissful time."
+    }
+  ]
+}

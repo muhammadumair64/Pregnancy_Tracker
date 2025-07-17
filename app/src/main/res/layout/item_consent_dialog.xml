@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_bg">
+
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:fontFamily="@font/urbanist_bold"
+        android:text="Privacy First"
+        android:textColor="@color/dark_text"
+        android:textSize="@dimen/_16sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_marginBottom="@dimen/_50sdp"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:id="@+id/linearLayout24"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/start_btn"
+        app:layout_constraintTop_toBottomOf="@+id/textView21">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_13sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/fields_layout"
+            >
+
+            <ImageView
+                android:id="@+id/checkbox1"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:padding="@dimen/_4sdp"
+                android:scaleType="fitXY"
+                android:src="@drawable/checkbox_selector" />
+
+            <TextView
+                android:fontFamily="@font/urbanist"
+                android:id="@+id/spannable_txt"
+                android:layout_width="wrap_content"
+android:textColor="@color/dark_text"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:text="@string/i_agree_to_the_handling_of_individual_information_in_understanding_with_the_privacy_policy"
+                android:textSize="@dimen/_12sdp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_13sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/fields_layout"
+            >
+
+            <ImageView
+                android:id="@+id/checkbox2"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:padding="@dimen/_4sdp"
+                android:scaleType="fitXY"
+                android:src="@drawable/checkbox_selector" />
+
+            <TextView
+                android:fontFamily="@font/urbanist"
+                android:id="@+id/spannable_txt2"
+                android:layout_width="wrap_content"
+                android:textColor="@color/dark_text"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:text="@string/consent_p2"
+                android:textSize="@dimen/_12sdp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_13sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/fields_layout"
+            >
+
+            <ImageView
+                android:id="@+id/checkbox3"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:padding="@dimen/_4sdp"
+                android:scaleType="fitXY"
+                android:src="@drawable/checkbox_selector" />
+
+            <TextView
+                android:id="@+id/spannable_txt3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:textColor="@color/dark_text"
+                android:text="@string/consent_p3"
+                android:fontFamily="@font/urbanist"
+                android:textSize="@dimen/_12sdp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_13sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toBottomOf="@id/fields_layout"
+            >
+
+            <ImageView
+                android:id="@+id/checkbox4"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:padding="@dimen/_4sdp"
+                android:scaleType="fitXY"
+                android:src="@drawable/checkbox_selector" />
+
+            <TextView
+                android:fontFamily="@font/urbanist"
+                android:id="@+id/spannable_txt4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/dark_text"
+                android:layout_marginStart="@dimen/_10sdp"
+                 android:text="@string/consent_p4"
+                android:textSize="@dimen/_12sdp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:id="@+id/start_btn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_45sdp"
+        android:layout_marginHorizontal="@dimen/_30sdp"
+        android:background="@drawable/button"
+        app:layout_constraintBottom_toBottomOf="parent"
+   >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/urbanist_medium"
+            android:text="I Agree"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16sdp" />
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

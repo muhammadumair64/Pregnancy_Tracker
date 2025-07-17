@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="@dimen/_250sdp"
+        android:layout_height="@dimen/_80sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        
+        <androidx.cardview.widget.CardView
+            android:id="@+id/main_card"
+            android:layout_margin="@dimen/_5sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="50dp"
+            app:cardBackgroundColor="@android:color/white"
+            app:cardCornerRadius="18dp">
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="@dimen/_240sdp"
+                android:layout_height="@dimen/_60sdp"
+                android:background="@drawable/tips_bg"
+                >
+
+                <TextView
+                    android:maxLines="1"
+                    android:layout_marginEnd="@dimen/_20sdp"
+                    android:id="@+id/title"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_3sdp"
+                    android:fontFamily="@font/urbanist_semibold"
+                    android:includeFontPadding="false"
+                    android:text="Ask for Help"
+                    android:textColor="@color/textColorDark"
+                    android:textSize="@dimen/_11sdp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="@+id/description_txt"
+                    app:layout_constraintStart_toStartOf="@+id/description_txt"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:maxLines="2"
+                    android:layout_marginTop="@dimen/_2sdp"
+                    android:id="@+id/description_txt"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginStart="@dimen/_45sdp"
+                    android:layout_marginEnd="@dimen/_10sdp"
+                    android:fontFamily="@font/urbanist"
+                    android:text="Don’t hesitate to seek support from family, friends, or professionals when needed."
+                    android:textColor="@color/textColorDark"
+                    android:textSize="@dimen/_10sdp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/title"
+                    tools:layout_editor_absoluteX="60dp" />
+
+                <TextView
+                    android:layout_marginBottom="@dimen/_3sdp"
+                    android:id="@+id/view"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/urbanist_semibold"
+                    android:includeFontPadding="false"
+                    android:maxLines="1"
+                    android:text="View More"
+                    android:textColor="@color/primary"
+                    android:textSize="@dimen/_10sdp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="@+id/description_txt" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            
+        </androidx.cardview.widget.CardView>
+     
+
+
+        <ImageView
+            android:elevation="@dimen/_30sdp"
+            android:id="@+id/imageView26"
+            android:layout_width="@dimen/_30sdp"
+            android:layout_height="@dimen/_30sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:src="@drawable/question"
+            app:layout_constraintBottom_toTopOf="@+id/main_card"
+            app:layout_constraintStart_toStartOf="@+id/main_card"
+            app:layout_constraintTop_toTopOf="@+id/main_card" />
+
+
+        <ImageView
+            android:elevation="@dimen/_30sdp"
+            android:id="@+id/cross"
+            android:layout_width="@dimen/_20sdp"
+            android:layout_height="@dimen/_20sdp"
+            android:layout_margin="@dimen/_5sdp"
+            android:padding="@dimen/_5sdp"
+            android:src="@drawable/cross"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/main_card" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/dialog_bg">
+    <ImageView
+        android:id="@+id/close"
+        android:layout_width="@dimen/_25sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:layout_margin="@dimen/_10sdp"
+        android:src="@drawable/cancel_circle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.mikhaellopez.circularprogressbar.CircularProgressBar
+        android:layout_marginTop="@dimen/_30sdp"
+        android:id="@+id/progress_prediction"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_100sdp"
+        android:elevation="@dimen/_10sdp"
+        app:cpb_background_progressbar_color="#FCEFF4"
+        app:cpb_background_progressbar_width="@dimen/_11sdp"
+        app:cpb_indeterminate_mode="false"
+        app:cpb_progress="10"
+        app:cpb_progress_direction="to_right"
+        app:cpb_progress_max="20"
+        app:cpb_progressbar_color="@color/primary"
+        app:cpb_progressbar_width="@dimen/_10sdp"
+        app:cpb_round_border="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="@+id/progress_prediction"
+        app:layout_constraintEnd_toEndOf="@+id/progress_prediction"
+        app:layout_constraintStart_toStartOf="@+id/progress_prediction"
+        app:layout_constraintTop_toTopOf="@+id/progress_prediction">
+
+        <TextView
+            android:id="@+id/progress_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/urbanist_medium"
+            android:text="50%"
+            android:textColor="@color/primary"
+            android:textSize="@dimen/_18sdp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/urbanist_medium"
+            android:text="Completed"
+            android:textColor="@color/dark_text"
+            android:textSize="@dimen/_10sdp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/_20sdp"
+        app:layout_constraintTop_toBottomOf="@+id/progress_prediction"
+        tools:layout_editor_absoluteX="12dp">
+
+        <TextView
+            android:id="@+id/titleMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/_5sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:fontFamily="@font/urbanist_semibold"
+            android:gravity="center"
+            android:lineSpacingExtra="@dimen/_7sdp"
+            android:text="We Predict Boy"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_19sdp" />
+
+        <TextView
+            android:id="@+id/para"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/_5sdp"
+            android:layout_marginTop="@dimen/_9sdp"
+            android:fontFamily="@font/urbanist_medium"
+            android:gravity="center"
+            android:lineSpacingExtra="@dimen/_6sdp"
+            android:text="Based on 5 answers, we predict it’s a boy! For\n a more accurate result, please answer all \n questions."
+            android:textColor="@color/text_color_light"
+            android:textSize="@dimen/_11sdp" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/start_btn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginHorizontal="@dimen/_40sdp"
+        android:background="@drawable/button"
+        android:backgroundTint="#FCEFF4"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout11"
+   >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/urbanist_medium"
+            android:text="Continue"
+            android:textColor="@color/primary"
+            android:textSize="@dimen/_13sdp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:id="@+id/skip_btn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginHorizontal="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/start_btn"
+        tools:layout_editor_absoluteX="48dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:fontFamily="@font/urbanist_medium"
+            android:text="Skip"
+            android:textColor="@color/text_color_light"
+            android:textSize="@dimen/_13sdp" />
+
+    </RelativeLayout>
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

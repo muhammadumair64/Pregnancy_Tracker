@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="page_margin">110dp</dimen>
+
+        <dimen name="page_margin_new">16dp</dimen>
+        <dimen name="offset">32dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="viewpager_horizontal_padding">100dp</dimen>
+
+    <dimen name="edge_item_margin">80dp</dimen>
+
+</resources>

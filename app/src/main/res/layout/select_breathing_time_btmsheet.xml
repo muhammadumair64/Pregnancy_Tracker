@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:background="@color/background_color"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="hardcodedText">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="@dimen/_23sdp"
+        android:layout_height="@dimen/_2sdp"
+        android:backgroundTint="@color/light_gray"
+        app:cardCornerRadius="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_7sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/textView82"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cardView">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Select Breathing Time"
+            android:fontFamily="@font/urbanist"
+            android:textColor="@color/textColorDark"
+            android:textSize="@dimen/_17sdp" />
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/middle_lay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView82">
+
+        <LinearLayout
+            android:id="@+id/linearLayout14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/breathing_1_min"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_32sdp"
+                android:layout_margin="@dimen/_5sdp"
+                android:layout_weight="1"
+                android:background="@drawable/stroke_border_color_light"
+                android:fontFamily="@font/urbanist_medium"
+                android:gravity="center"
+                android:text="1 min Breathing"
+                android:textColor="@color/gray_text"
+                android:textSize="@dimen/_11sdp" />
+
+            <TextView
+                android:id="@+id/breathing_2_min"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_32sdp"
+                android:layout_margin="@dimen/_5sdp"
+                android:layout_weight="1"
+                android:background="@drawable/green_color_round_corner"
+                android:fontFamily="@font/urbanist_medium"
+                android:gravity="center"
+                android:text="2 min Breathing"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_11sdp" />
+
+            <TextView
+                android:id="@+id/breathing_3_min"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_32sdp"
+                android:layout_margin="@dimen/_5sdp"
+                android:layout_weight="1"
+                android:background="@drawable/stroke_border_color_light"
+                android:fontFamily="@font/urbanist_medium"
+                android:gravity="center"
+                android:text="3 min Breathing"
+                android:textColor="@color/gray_text"
+                android:textSize="@dimen/_11sdp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_7sdp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:weightSum="3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout14">
+
+            <TextView
+                android:id="@+id/breathing_4_min"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_32sdp"
+                android:layout_margin="@dimen/_5sdp"
+                android:layout_weight="1"
+                android:background="@drawable/stroke_border_color_light"
+                android:fontFamily="@font/urbanist_medium"
+                android:gravity="center"
+                android:text="4 min Breathing"
+                android:textColor="@color/gray_text"
+                android:textSize="@dimen/_11sdp" />
+
+            <TextView
+                android:id="@+id/breathing_5_min"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_32sdp"
+                android:layout_margin="@dimen/_5sdp"
+                android:layout_weight="1"
+                android:background="@drawable/stroke_border_color_light"
+                android:fontFamily="@font/urbanist_medium"
+                android:gravity="center"
+                android:text="5 min Breathing"
+                android:textColor="@color/gray_text"
+                android:textSize="@dimen/_11sdp" />
+
+            <TextView
+                android:id="@+id/breathing_6_min"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_32sdp"
+                android:layout_margin="@dimen/_5sdp"
+                android:layout_weight="1"
+                android:background="@drawable/stroke_border_color_light"
+                android:fontFamily="@font/urbanist_medium"
+                android:gravity="center"
+                android:text="6 min Breathing"
+                android:textColor="@color/gray_text"
+                android:textSize="@dimen/_11sdp"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout15">
+
+            <ImageView
+                android:layout_width="@dimen/_15sdp"
+                android:layout_height="@dimen/_15sdp"
+                android:src="@drawable/information_icon" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_3sdp"
+                android:fontFamily="@font/urbanist"
+                android:gravity="center"
+                android:text="Inhale deeply, then hold for a moment. Exhale slowly to complete each breath cycle."
+                android:textColor="@color/text_color_light"
+                android:textSize="@dimen/_11sdp" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/continueBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        app:cardBackgroundColor="@color/primary"
+        app:cardCornerRadius="@dimen/_30sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/middle_lay"
+        app:strokeWidth="0dp"
+        tools:layout_editor_absoluteX="19dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/urbanist_medium"
+            android:gravity="center"
+            android:paddingVertical="@dimen/_10sdp"
+            android:text="Continue"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_15sdp" />
+    </com.google.android.material.card.MaterialCardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

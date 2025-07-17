@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HorizontalCalendar">
+        <attr format="integer" name="numOfDays"/>
+        <attr format="string" name="setLabel"/>
+        <attr format="reference|color" name="setBgColor"/>
+        <attr format="color" name="setTextColor"/>
+        <attr format="reference|color" name="setSelectedBgColor"/>
+        <attr format="color" name="setSelectedTextColor"/>
+        <attr format="color" name="setLabelColor"/>
+        <attr format="color" name="setMonthColor"/>
+        <attr format="dimension" name="setLabelTextSize"/>
+        <attr format="dimension" name="setMonthTextSize"/>
+        <attr format="dimension" name="setDateTextSize"/>
+        <attr format="dimension" name="setWeekTextSize"/>
+        <attr format="string" name="setLabelFontStyle"/>
+        <attr format="string" name="setDateFontStyle"/>
+        <attr format="string" name="setMonthFontStyle"/>
+        <attr format="color" name="setIconsColor"/>
+        <attr format="enum" name="setLanguage">
+            <enum name="Default" value="0"/>
+            <enum name="English" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    /****** Date Picker ******/
+    <!-- Custom style for MaterialDatePicker -->
+    <style name="CustomDatePickerTheme" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <!-- Customize primary color (header, selected date) -->
+        <item name="colorPrimary">@color/theme_text_color</item>
+        <item name="colorSecondary">@color/white</item>
+
+        <!-- Customize text color for selected date -->
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSurface">@color/gray_text_color</item>
+
+        <!-- Customize calendar background -->
+        <item name="colorSurface">@color/white</item>
+
+        <!-- Customize text color for calendar days -->
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/gray_text_color</item>
+
+        <!-- Customize text color for current date -->
+        <item name="materialCalendarStyle">@style/CustomMaterialCalendar</item>
+
+        <item name="fontFamily">@font/urbanist_medium</item>
+    </style>
+
+    <!-- Custom MaterialCalendar style for MaterialDatePicker -->
+    <style name="CustomMaterialCalendar" parent="Widget.MaterialComponents.MaterialCalendar">
+        <!-- Custom color for selected day -->
+        <item name="materialCalendarDay">@style/CustomCalendarDaySelected</item>
+    </style>
+
+    <!-- Custom style for the selected day in the calendar -->
+    <style name="CustomCalendarDaySelected" parent="Widget.MaterialComponents.MaterialCalendar.Day.Selected">
+        <item name="itemFillColor">@color/theme_text_color</item> <!-- Color for selected date background -->
+        <item name="android:textColor">#FFFFFF</item> <!-- Text color for selected date -->
+        <item name="fontFamily">@font/urbanist_medium</item>
+    </style>
+
+
+    /**************************************/
+    <!-- Custom style for MaterialTimePicker -->
+    <style name="CustomTimePickerTheme" parent="ThemeOverlay.MaterialComponents.TimePicker">
+        <!-- Customize primary color (header, clock face) -->
+        <item name="colorPrimary">@color/theme_text_color</item>
+
+        <!-- Customize color for buttons -->
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Customize background color -->
+        <item name="colorSurface">@color/white</item>
+
+        <item name="colorOnSurface">@color/gray_text_color</item>
+
+        <!-- Customize text color for time selection -->
+        <item name="android:textColorPrimary">#000000</item>
+
+        <!-- Customize dialog background -->
+        <item name="materialTimePickerStyle">@style/CustomTimePickerDialog</item>
+
+        <item name="android:textColor">@color/black</item>
+        <item name="fontFamily">@font/urbanist_medium</item>
+    </style>
+
+    <!-- Custom dialog style for MaterialTimePicker -->
+    <style name="CustomTimePickerDialog" parent="Widget.MaterialComponents.TimePicker">
+        <item name="materialThemeOverlay">@style/CustomTimePickerOverlay</item>
+    </style>
+
+    <!-- Overlay style to customize text and background -->
+    <style name="CustomTimePickerOverlay" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="colorPrimary">@color/theme_text_color</item> <!-- Header color -->
+        <item name="colorAccent">@color/black</item>  <!-- Accent color -->
+        <item name="android:textColorPrimary">#000000</item> <!-- Text color -->
+    </style>
+    <style name="CircleImageViewStyle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="TipsDialogTheme">
+        <item name="android:windowEnterAnimation">@anim/slide_in_from_top_right</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="CustomBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+    </style>
+
+    <style name="CustomBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+
+</resources>
